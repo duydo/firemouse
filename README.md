@@ -1,3 +1,3 @@
 # FireMouse - A PHP 5 MVC web framework
 
-This is a repository for me to learn about developing a PHP5 MVC framewpork in 2009.
+This repository is where I started learning how to develop a PHP5 MVC framework back in 2009.
