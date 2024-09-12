@@ -1,0 +1,13 @@
+layout:
+  template: views/layout.php
+  attributes:
+   title: A Web Page
+   header: views/header.php
+   main:
+   footer: views/footer.php
+
+homepage:
+  extends: layout
+  attributes:
+    title: ABC
+    main: views/home.php
